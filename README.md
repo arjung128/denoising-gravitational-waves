@@ -1,2 +1,2 @@
 # denoising-gravitational-waves
-Deep Learning for NCSA Gravity Group
+Deep Learning at NCSA
